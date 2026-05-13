@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-👋 Hi, I’m @Zhouzhou-zhy
-👀 北方工业大学在校学生
-🤕 在北京某不知名RoboMaster战队作为感知
-🌱 目前在研究机器人具身智能方向
-📫 e-mail:2746486175@qq.com
+- 👋 Hi, I’m @Zhouzhou-zhy
+- 👀 北方工业大学在校学生
+- 🤕 在北京某不知名RoboMaster战队作为感知
+- 🌱 目前在研究机器人具身智能方向
+- 📫 e-mail:2746486175@qq.com
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhouzhou-zhy)
+
 发表过论文(https://ieeexplore.ieee.org/abstract/document/11290480)
 
 <!--
